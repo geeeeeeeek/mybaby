@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">宝宝问答</string>
+    <string name="network_exception">网络异常，请检查网络</string>
+    <string name="load_message">请稍等</string>
+    <string name="tab_first">成长</string>
+    <string name="tab_second">足迹</string>
+    <string name="tab_third">话题</string>
+    <string name="tab_forth">个人</string>
+</resources>
